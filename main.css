@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    padding: 2% 25%;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    flex: 33.3%;
+}
+
+img {
+    width: 100%;
+}
